@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,address.location.lat,address.location.lng,address.location.timezone,gender,preferences.notifications.email,preferences.notifications.sms
+Rita,Khanna,26,"89 Maple Residency","Tower 4",Pune,Maharashtra,18.5204,73.8567,IST,female,true,false
+Dev,Shetty,39,"5 Coral Enclave","Block A",Mumbai,Maharashtra,19.0760,72.8777,IST,male,false,true
+Neha,Garg,52,"144 Sunrise Homes","Sector 9",Noida,Uttar Pradesh,28.5355,77.3910,IST,female,true,true
+Prakash,Naik,18,"2 Valley View","Hill Top",Shimla,Himachal Pradesh,31.1048,77.1734,IST,male,false,false
+Dinesh,Pandey,70,"77 Heritage Lane","Old Fort",Varanasi,Uttar Pradesh,25.3176,82.9739,IST,male,true,false

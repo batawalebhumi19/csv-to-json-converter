@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,phone,email,maritalStatus
+Sanjay,Patil,28,"21 Green Meadows","Wing B",Pune,Maharashtra,male,9876543210,sanjay.patil@example.com,Single
+Kavita,Rao,33,"44 Palm Grove","Block C",Chennai,Tamil Nadu,female,9123456780,kavita.rao@example.com,Married
+Arjun,Verma,17,"7 River Side","Lane 3",Delhi,Delhi,male,9988776655,arjun.verma@example.com,Single
+Latika,Menon,45,"56 Ocean View","Tower 1",Kochi,Kerala,female,9090909090,latika.menon@example.com,Married
+Farhan,Ali,63,"3 Old City","Market Road",Hyderabad,Telangana,male,9012345678,farhan.ali@example.com,Widowed

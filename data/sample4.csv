@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,phone,notes
+Priya,Shinde,24,"10 Lotus Park","",Pune,Maharashtra,female,9998887777,""
+Karan,Jain,38,"","",Mumbai,Maharashtra,male,,"No permanent address, travels frequently"
+Isha,Kapoor,16,"221B Baker Street","",London,"",female,8887776666,"International student"
+Mahesh,Gupta,59,"45 Industrial Area","Phase 1",Indore,Madhya Pradesh,,7776665555,"Gender not specified"
+Anil,Verghese,65,"90 Pine Woods","Wing D",Thiruvananthapuram,Kerala,male,,,
